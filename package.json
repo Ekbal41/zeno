@@ -1,0 +1,21 @@
+{
+  "name": "zeno",
+  "version": "0.0.1",
+  "description": "A micro web framework for Node.js",
+  "repository": "Ekbal41/zeno",
+  "license": "MIT",
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": {
+    "name": "Asif Ekbal",
+    "email": "asifekbaldev@gmail.com",
+    "url": "https://asifekbal.vercel.com"
+  },
+  "dependencies": {
+    "trouter": "^2.0.1"
+  }
+}
